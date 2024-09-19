@@ -2,6 +2,6 @@ bin
 composer.lock
 vendor
 node_modules
-/.idea
-/.vscode
+.idea
+.vscode
 .DS_STORE
